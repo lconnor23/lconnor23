@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
+<h3 align="center">I love learning and building creative solutions</h3>
 - 🔭 I’m currently working on [a rowing training app](https://github.com/lconnor23/atomic-test)
 
-- 👨‍💻 All of my projects are available at [https://itslaurarose.netlify.app/](https://itslaurarose.netlify.app/)
+- 💻 All of my projects are available at [https://itslaurarose.netlify.app/](https://itslaurarose.netlify.app/)
 
 - 📫 How to reach me **itslauraroseco@gmail.com**
 
