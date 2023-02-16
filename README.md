@@ -2,9 +2,9 @@
 <h3 align="center">I love learning and building creative solutions</h3>
 - 🔭 I’m currently working on a rowing training app(https://github.com/lconnor23/atomic-test)
 
-- 💻 Check out my portfolio at [https://itslaurarose.netlify.app/](https://itslaurarose.netlify.app/)
+- 💻 Check out my portfolio at [https://itslaurarose.netlify.app/]https://itslaurarose.netlify.app/
 
-- 📫 How to reach me **itslauraroseco@gmail.com**
+- 📫 Email me at **itslauraroseco@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
